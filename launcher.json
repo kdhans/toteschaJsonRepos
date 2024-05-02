@@ -1555,23 +1555,6 @@
           "RequiredFiles": []
         },
         {
-          "Name": "FancyMenu",
-          "Description": "Customize Minecraft's menus with ease!",
-          "Version": "3.1.7-1.20.1-fabric",
-          "MinecraftVersion": "1.20.1",
-          "URL": "http://modrinth.com/mod/Wq5SjeWM",
-          "ImageURL": "https://cdn.modrinth.com/data/Wq5SjeWM/7e921c938bffdfbad39f7f4ab5a4db227a418ac1.png",
-          "DownloadURL": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/pqlDnCPi/fancymenu_fabric_3.1.7_MC_1.20.1.jar",
-          "Filename": "fancymenu_fabric_3.1.7_MC_1.20.1.jar",
-          "InstallationLocation": "mods",
-          "FileStage": "release",
-          "ProjectID": "Wq5SjeWM",
-          "ClientSide": true,
-          "ServerSide": false,
-          "RequiresZipExtraction": false,
-          "RequiredFiles": [ "CVT4pFB2", "J81TRJWm", "P7dR8mSH" ]
-        },
-        {
           "Name": "Farmer's Delight Refabricated",
           "Description": "Modern Fabric port of the cooking and farming mod, \"Farmer's Delight\"",
           "Version": "1.20.1-2.1.1",
